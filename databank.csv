@@ -1,0 +1,501 @@
+Ticker,Sector,Debt to equity,Sales growth 3Years,Average return on equity 3Years,Piotroski score
+360ONE.NS,Financial Services,1.58,16.73,21.9,5
+3MINDIA.NS,Diversified,0.01,17.5,18.07,9
+AADHARHFC.NS,Financial Services,2.56,21.6,17.24,6
+AARTIIND.NS,Chemicals,0.69,6.11,8.47,3
+AAVAS.NS,Financial Services,3.19,21.76,14.06,4
+ABB.NS,Capital Goods,0.01,20.68,23.64,8
+ABBOTINDIA.NS,Healthcare,0.05,9.26,34.23,7
+ABCAPITAL.NS,Financial Services,4.61,22.22,16.32,3
+ABFRL.NS,Consumer Services,0.74,-3.31,-11.52,5
+ABREL.NS,Forest Materials,1.3,-33.43,1.28,2
+ABSLAMC.NS,Financial Services,0.02,6.24,26.68,4
+ACC.NS,Construction Materials,0.02,10.45,11.55,6
+ACE.NS,Capital Goods,0.08,26.86,28.49,8
+ACMESOLAR.NS,Power,2.43,-1.89,4.58,7
+ADANIENSOL.NS,Power,1.83,28.29,11.24,7
+ADANIENT.NS,Metals & Mining,1.82,12.14,9.94,5
+ADANIGREEN.NS,Power,6.59,29.75,16.51,7
+ADANIPORTS.NS,Services,0.82,21.99,17.58,7
+ADANIPOWER.NS,Power,0.7,26.58,40.16,8
+AEGISLOG.NS,Oil Gas & Consumable Fuels,1.06,22.39,15.92,5
+AFCONS.NS,Construction,0.45,4.43,13.6,4
+AFFLE.NS,Information Technology,0.03,27.96,15.33,7
+AIAENG.NS,Capital Goods,0.07,6.33,17.8,5
+AIIL.NS,Financial Services,0.04,71.36,33.47,4
+AJANTPHARM.NS,Healthcare,0.01,11.63,22.33,7
+AKUMS.NS,Healthcare,0.03,3.9,13.08,7
+ALIVUS.NS,Healthcare,0.02,3.98,20.62,4
+ALKEM.NS,Healthcare,0.13,12.63,17.42,9
+ALKYLAMINE.NS,Chemicals,0,0.64,15.62,8
+ALOKINDS.NS,Textiles,,-20.24,,4
+AMBER.NS,Consumer Durables,0.9,33.34,8.97,7
+AMBUJACEM.NS,Construction Materials,0.01,6.56,9.2,3
+ANANDRATHI.NS,Financial Services,0.12,30.33,42.64,5
+ANANTRAJ.NS,Realty,0.12,64.61,8.45,6
+ANGELONE.NS,Financial Services,0.61,31.73,36.12,3
+APARINDS.NS,Capital Goods,0.13,25.87,24.71,4
+APLAPOLLO.NS,Capital Goods,0.15,16.56,21.4,6
+APLLTD.NS,Healthcare,0.24,7.94,10.62,5
+APOLLOHOSP.NS,Healthcare,0.98,21.75,14.4,6
+APOLLOTYRE.NS,Automobile and Auto Components,0.3,7.64,10.11,7
+APTUS.NS,Financial Services,1.59,29.04,17.4,3
+ARE&M.NS,Automobile and Auto Components,0.05,16.35,13.53,6
+ASAHIINDIA.NS,Automobile and Auto Components,1.01,13.16,15.47,6
+ASHOKLEY.NS,Capital Goods,4.08,22.76,24.81,5
+ASIANPAINT.NS,Consumer Durables,0.12,5.23,26.34,6
+ASTERDM.NS,Healthcare,0.59,-26.1,8.1,7
+ASTRAL.NS,Capital Goods,0.06,9.9,16.94,5
+ASTRAZEN.NS,Healthcare,0.03,16.78,19.88,7
+ATGL.NS,Oil Gas & Consumable Fuels,0.44,18.07,18.99,5
+ATUL.NS,Chemicals,0.04,3.19,8.9,9
+AUBANK.NS,Financial Services,7.98,39.47,14.16,5
+AUROPHARMA.NS,Healthcare,0.25,10.59,10.17,4
+AWL.NS,Fast Moving Consumer Goods,0.21,5.55,7.87,9
+AXISBANK.NS,Financial Services,7.48,22.76,14.87,5
+BAJAJ-AUTO.NS,Automobile and Auto Components,0.17,17.38,22.01,7
+BAJAJFINSV.NS,Financial Services,4.92,25.07,14.38,3
+BAJAJHFL.NS,Financial Services,4.11,36.48,14.28,4
+BAJAJHLDNG.NS,Financial Services,0,54.98,12.18,7
+BAJFINANCE.NS,Financial Services,3.74,30.11,21.17,4
+BALKRISIND.NS,Automobile and Auto Components,0.31,7.99,16.33,8
+BALRAMCHIN.NS,Fast Moving Consumer Goods,0.69,3.77,12.05,2
+BANDHANBNK.NS,Financial Services,6.66,16.53,11.55,5
+BANKBARODA.NS,Financial Services,11.14,20.36,15.81,7
+BANKINDIA.NS,Financial Services,11.69,23.04,9.91,6
+BASF.NS,Chemicals,0.05,,,5
+BATAINDIA.NS,Consumer Durables,0.98,26.75,14.66,5
+BAYERCROP.NS,Chemicals,0.04,4.95,24.11,4
+BBTC.NS,Fast Moving Consumer Goods,0.28,8.05,-10.52,9
+BDL.NS,Capital Goods,0,7.38,15.83,6
+BEL.NS,Capital Goods,0,15.65,26.48,7
+BEML.NS,Capital Goods,0.08,-2.48,9.39,6
+BERGEPAINT.NS,Consumer Durables,0.11,9.63,21.48,5
+BHARATFORG.NS,Automobile and Auto Components,0.72,13.07,10.76,7
+BHARTIARTL.NS,Telecommunication,1.88,14.07,19.35,6
+BHARTIHEXA.NS,Telecommunication,1.24,16.51,18.23,8
+BHEL.NS,Capital Goods,0.36,10.14,1.93,9
+BIKAJI.NS,Fast Moving Consumer Goods,0.17,17.63,18.13,3
+BIOCON.NS,Healthcare,0.85,23.09,4.89,6
+BLS.NS,Consumer Services,0.21,37.17,32.38,5
+BLUEDART.NS,Services,0.65,9.05,23.93,7
+BLUESTARCO.NS,Consumer Durables,0.12,25.43,21.42,8
+BOSCHLTD.NS,Automobile and Auto Components,0,19.84,13.74,8
+BPCL.NS,Oil Gas & Consumable Fuels,0.75,8.28,22.48,4
+BRIGADE.NS,Realty,0.97,19.16,11.45,7
+BRITANNIA.NS,Fast Moving Consumer Goods,0.29,8.27,58.19,8
+BSE.NS,Financial Services,0,56.33,20.74,8
+BSOFT.NS,Information Technology,0.04,14.07,18.34,7
+CAMPUS.NS,Consumer Durables,0.32,26.75,21.57,6
+CAMS.NS,Financial Services,0.07,15.59,42.42,7
+CANBK.NS,Financial Services,14.67,19.86,16.97,7
+CANFINHOME.NS,Financial Services,6.92,24.95,18.49,8
+CAPLIPOINT.NS,Healthcare,0,15.14,23.49,5
+CARBORUNIV.NS,Capital Goods,0.06,13.76,13.72,4
+CASTROLIND.NS,Oil Gas & Consumable Fuels,0.04,8.57,43.27,7
+CCL.NS,Fast Moving Consumer Goods,0.92,28.55,17.66,5
+CDSL.NS,Financial Services,0,25.21,29.73,8
+CEATLTD.NS,Automobile and Auto Components,0.49,12.18,12.18,5
+CENTRALBK.NS,Financial Services,11.8,13.85,8.84,4
+CENTURYPLY.NS,Consumer Durables,0.56,22.18,19.71,3
+CERA.NS,Consumer Durables,0.05,9.93,18.96,5
+CESC.NS,Power,1.5,10.67,11.99,7
+CGCL.NS,Financial Services,3.62,49.06,9.15,5
+CGPOWER.NS,Capital Goods,0.01,21.8,45.34,4
+CHALET.NS,Consumer Services,0.85,50.12,10.33,7
+CHAMBLFERT.NS,Chemicals,0.01,1.18,17.68,7
+CHENNPETRO.NS,Oil Gas & Consumable Fuels,0.38,11.28,31.07,4
+CHOLAFIN.NS,Financial Services,7.4,36.57,20.03,3
+CHOLAHLDNG.NS,Financial Services,13.93,31.27,19.12,5
+CIPLA.NS,Healthcare,0.01,8.17,16.18,6
+CLEAN.NS,Chemicals,0,12.17,24.31,5
+COALINDIA.NS,Oil Gas & Consumable Fuels,0.09,9.33,48.61,4
+COCHINSHIP.NS,Capital Goods,0.09,12.38,13.47,4
+COFORGE.NS,Information Technology,0.17,23.28,21.08,5
+COHANCE.NS,Healthcare,0.02,1.36,21.94,6
+COLPAL.NS,Fast Moving Consumer Goods,0.04,5.8,72.39,6
+CONCOR.NS,Services,0.07,5.11,10.81,7
+CONCORDBIO.NS,Healthcare,0,18.13,19.24,8
+COROMANDEL.NS,Chemicals,0.07,8.02,20.87,4
+CRAFTSMAN.NS,Automobile and Auto Components,0.83,36.92,15.19,5
+CREDITACC.NS,Financial Services,2.94,29.18,16.26,6
+CRISIL.NS,Financial Services,0.1,12.32,30.71,3
+CROMPTON.NS,Consumer Durables,0.14,13.39,17,8
+CUB.NS,Financial Services,6.94,12.43,12.88,5
+CUMMINSIND.NS,Capital Goods,0,27.43,22.53,8
+CYIENT.NS,Information Technology,0.1,17.52,15.82,5
+DABUR.NS,Fast Moving Consumer Goods,0.09,4.88,18.43,5
+DALBHARAT.NS,Construction Materials,0.33,7.4,5.43,4
+DATAPATTNS.NS,Capital Goods,0,31.59,14.81,5
+DBREALTY.NS,Consumer Services,0.4,144.16,3.75,6
+DCMSHRIRAM.NS,Diversified,0.36,7.85,10.07,6
+DEEPAKFERT.NS,Chemicals,0.67,10.27,16.24,8
+DEEPAKNTR.NS,Chemicals,0.17,20.78,23.94,6
+DELHIVERY.NS,Services,0.15,9.08,-4.32,6
+DEVYANI.NS,Consumer Services,2.91,33.43,11.09,3
+DIVISLAB.NS,Healthcare,0,1.47,14.16,7
+DIXON.NS,Consumer Durables,0.22,53.73,28.09,7
+DLF.NS,Realty,0.1,11.82,7.96,7
+DMART.NS,Consumer Services,0.04,24.21,14.52,4
+DOMS.NS,Fast Moving Consumer Goods,0.21,40.91,25.39,5
+DRREDDY.NS,Healthcare,0.14,14.86,20.23,2
+ECLERX.NS,Services,0.16,15.93,25.85,5
+EICHERMOT.NS,Automobile and Auto Components,0.02,22.37,23.31,4
+EIDPARRY.NS,Fast Moving Consumer Goods,0.23,16.6,15.84,6
+EIHOTEL.NS,Consumer Services,0.06,40.68,15.88,9
+ELECON.NS,Capital Goods,0.09,22.48,22.84,5
+ELGIEQUIP.NS,Capital Goods,0.3,18.7,20.92,7
+EMAMILTD.NS,Fast Moving Consumer Goods,0.03,6.07,29.9,9
+EMCURE.NS,Healthcare,0.23,10.48,21.81,6
+ENDURANCE.NS,Automobile and Auto Components,0.17,15.26,13.64,8
+ENGINERSIN.NS,Construction,0.01,1.43,16.01,6
+ERIS.NS,Healthcare,0.87,29.03,15.51,6
+ESCORTS.NS,Capital Goods,0.01,12.04,10.79,5
+ETERNAL.NS,Consumer Services,0.07,69.02,-0.49,6
+EXIDEIND.NS,Automobile and Auto Components,0.14,10.46,6.71,4
+FACT.NS,Chemicals,1.32,-2.9,27.72,5
+FEDERALBNK.NS,Financial Services,9.15,25.03,14.15,3
+FINCABLES.NS,Capital Goods,0,21.9,14.07,7
+FINPIPE.NS,Capital Goods,0.04,-3.76,7.05,7
+FIRSTCRY.NS,Consumer Services,0.33,47.2,-8.63,7
+FIVESTAR.NS,Financial Services,1.26,31.44,17.27,4
+FLUOROCHEM.NS,Chemicals,0.35,17.33,17.4,4
+FORTIS.NS,Healthcare,0.28,10.83,8.68,8
+FSL.NS,Services,0.63,10.46,15.16,3
+GAIL.NS,Oil Gas & Consumable Fuels,0.25,15.22,12.05,7
+GESHIP.NS,Services,0.15,14.9,21.24,7
+GICRE.NS,Financial Services,0,0.44,14.39,8
+GILLETTE.NS,Fast Moving Consumer Goods,0,9.93,38.9,9
+GLAND.NS,Healthcare,0.03,8.47,9.23,5
+GLAXO.NS,Healthcare,0.01,4.58,37.25,9
+GLENMARK.NS,Healthcare,0.28,2.68,-9.68,5
+GMDCLTD.NS,Metals & Mining,0.02,1.43,14.31,7
+GMRAIRPORT.NS,Services,,31.3,,4
+GNFC.NS,Chemicals,0.01,-2.98,9.98,9
+GODFRYPHLP.NS,Fast Moving Consumer Goods,0.03,27.81,20.89,8
+GODIGIT.NS,Financial Services,0.08,34.62,7.63,8
+GODREJAGRO.NS,Fast Moving Consumer Goods,0.59,4.15,14.01,5
+GODREJCP.NS,Fast Moving Consumer Goods,0.33,5.37,-9.87,5
+GODREJIND.NS,Diversified,3.75,11.63,7.64,6
+GODREJPROP.NS,Realty,0.73,39.21,7.83,6
+GPIL.NS,Capital Goods,0.06,-0.13,20.27,4
+GPPL.NS,Services,0.03,10.46,14.71,8
+GRANULES.NS,Healthcare,0.32,11.65,16.51,3
+GRAPHITE.NS,Capital Goods,0.03,-5.43,4.62,8
+GRASIM.NS,Construction Materials,1.91,15.77,6.45,2
+GRAVITA.NS,Metals & Mining,0.14,20.41,28.54,4
+GRSE.NS,Capital Goods,0,42.49,22.91,8
+GSPL.NS,Oil Gas & Consumable Fuels,0.01,-1.16,14.57,6
+GUJGASLTD.NS,Oil Gas & Consumable Fuels,0.02,0.06,17.35,6
+GVT&D.NS,Capital Goods,0.02,11.87,21.27,9
+HAL.NS,Capital Goods,0,7.96,27.3,6
+HAPPSTMNDS.NS,Information Technology,0.79,23.52,19.39,4
+HAVELLS.NS,Consumer Durables,0.04,16.04,17.97,7
+HBLENGINE.NS,Capital Goods,0.05,16.75,20.19,6
+HCLTECH.NS,Information Technology,0.09,10.97,23.87,6
+HDFCAMC.NS,Financial Services,0,12.93,29.13,5
+HDFCBANK.NS,Financial Services,6.46,35.26,16.01,5
+HDFCLIFE.NS,Financial Services,0.18,13.03,10.92,7
+HEG.NS,Capital Goods,0.13,-0.62,7.43,6
+HEROMOTOCO.NS,Automobile and Auto Components,0.04,11.46,20.93,7
+HFCL.NS,Telecommunication,0.33,-4.91,7.66,3
+HINDALCO.NS,Metals & Mining,0.52,6.93,12.23,8
+HINDCOPPER.NS,Metals & Mining,0.04,-1.32,16.94,5
+HINDPETRO.NS,Oil Gas & Consumable Fuels,1.38,7.45,12.55,5
+HINDUNILVR.NS,Fast Moving Consumer Goods,0.03,6.37,20.47,7
+HINDZINC.NS,Metals & Mining,0.82,4.89,55.08,8
+HOMEFIRST.NS,Financial Services,3.79,36.95,15.3,3
+HONASA.NS,Fast Moving Consumer Goods,0.09,26.04,,4
+HONAUT.NS,Capital Goods,0.02,12.43,14.3,4
+HSCL.NS,Chemicals,0.08,18.23,14.81,7
+HUDCO.NS,Financial Services,5.97,13.86,13.51,6
+HYUNDAI.NS,Automobile and Auto Components,0.05,12.88,34.8,6
+ICICIBANK.NS,Financial Services,5.97,25,18.02,5
+ICICIGI.NS,Financial Services,0,14.35,17.86,7
+ICICIPRULI.NS,Financial Services,0.22,3.65,9.01,5
+IDBI.NS,Financial Services,5.35,16.44,11.42,7
+IDEA.NS,Telecommunication,,0.55,,5
+IDFCFIRSTB.NS,Financial Services,7.66,28.58,7.88,5
+IEX.NS,Financial Services,0.01,7.95,38.66,9
+IFCI.NS,Financial Services,0.43,6.44,1.07,3
+IGIL.NS,Services,0.01,29.13,48.83,5
+IGL.NS,Oil Gas & Consumable Fuels,0.01,24.64,19.68,5
+IIFL.NS,Financial Services,4.15,13.46,13.13,2
+IKS.NS,Information Technology,0.48,51.66,37.02,6
+INDGN.NS,Healthcare,0.04,19.48,24.09,6
+INDHOTEL.NS,Consumer Services,0.28,39.71,14.66,9
+INDIACEM.NS,Construction Materials,0.11,-5.13,-5.96,4
+INDIAMART.NS,Consumer Services,0.02,22.6,19.67,7
+INDIANB.NS,Financial Services,10.89,16.85,15.03,7
+INDIGO.NS,Services,7.21,46.06,,5
+INDUSINDBK.NS,Financial Services,7.22,16.45,10.95,4
+INDUSTOWER.NS,Telecommunication,0.65,2.81,23.66,8
+INFY.NS,Information Technology,0.09,10.25,30.72,6
+INOXINDIA.NS,Capital Goods,0.05,18.61,30.2,5
+INOXWIND.NS,Capital Goods,1.33,34.86,-27.68,4
+INTELLECT.NS,Information Technology,0.03,10,13.69,5
+IOB.NS,Financial Services,10.88,18.91,9.99,5
+IOC.NS,Oil Gas & Consumable Fuels,0.82,8.76,13.12,4
+IPCALAB.NS,Healthcare,0.18,12.41,11.35,7
+IRB.NS,Construction,1.04,9.47,5.3,9
+IRCON.NS,Construction,0.68,13.39,14.46,3
+IRCTC.NS,Consumer Services,0.01,76.5,41.89,6
+IREDA.NS,Financial Services,6.03,33.09,17.14,6
+IRFC.NS,Financial Services,7.83,10.18,13.56,8
+ITC.NS,Fast Moving Consumer Goods,0,7.49,28.31,5
+ITI.NS,Telecommunication,1.05,-18.82,-11.42,3
+J&KBANK.NS,Financial Services,10.62,16.1,15.14,5
+JBCHEPHARM.NS,Healthcare,0.01,17.35,19.63,8
+JBMA.NS,Automobile and Auto Components,1.95,19.67,15.09,7
+JINDALSAW.NS,Capital Goods,0.43,16.13,12.9,6
+JINDALSTEL.NS,Metals & Mining,0.39,-0.92,10.76,4
+JIOFIN.NS,Financial Services,0.03,,,4
+JKCEMENT.NS,Construction Materials,0.99,14.13,13.21,7
+JKTYRE.NS,Automobile and Auto Components,1.01,7.03,13.86,4
+JMFINANCIL.NS,Financial Services,1.18,5.53,5.67,5
+JPPOWER.NS,Power,0.31,5.71,6.86,7
+JSL.NS,Metals & Mining,0.38,6.3,18.21,4
+JSWENERGY.NS,Power,1.83,12.88,7.94,3
+JSWHL.NS,Financial Services,0,22.25,1.09,4
+JSWINFRA.NS,Services,0.52,25.34,18.29,5
+JSWSTEEL.NS,Metals & Mining,1.24,4.87,7.39,5
+JUBLFOOD.NS,Consumer Services,2.08,22.8,13.82,6
+JUBLINGREA.NS,Chemicals,0.26,-5.49,9.24,7
+JUBLPHARMA.NS,Healthcare,0.44,5.68,1.36,7
+JUSTDIAL.NS,Consumer Services,0.02,20.85,6.56,7
+JWL.NS,Capital Goods,0.14,48.65,20.02,5
+JYOTHYLAB.NS,Fast Moving Consumer Goods,0.03,9.03,18.6,6
+JYOTICNC.NS,Capital Goods,0.29,34.53,19.52,4
+KAJARIACER.NS,Consumer Durables,0.1,7.75,15.03,3
+KALYANKJIL.NS,Consumer Durables,1.03,32.29,14.97,6
+KANSAINER.NS,Consumer Durables,0.05,7.09,11.34,5
+KARURVYSYA.NS,Financial Services,8.66,20.09,16.37,6
+KAYNES.NS,Capital Goods,0.32,56.8,11.48,2
+KEC.NS,Construction,0.74,16.71,8.84,7
+KEI.NS,Capital Goods,0.04,19.35,18.09,3
+KFINTECH.NS,Financial Services,0.03,19.48,25.5,8
+KIMS.NS,Healthcare,1.2,22.51,19.21,3
+KIRLOSBROS.NS,Capital Goods,0.09,13.68,20.91,8
+KIRLOSENG.NS,Capital Goods,1.89,16.44,16.02,3
+KNRCON.NS,Construction,0.34,15.12,18.98,6
+KOTAKBANK.NS,Financial Services,3.76,24.85,14.2,5
+KPIL.NS,Construction,0.66,14.73,9.6,5
+KPITTECH.NS,Information Technology,0.12,33.92,30.67,9
+KPRMILL.NS,Textiles,0.09,9.82,19.65,8
+LALPATHLAB.NS,Healthcare,0.07,5.65,20.24,8
+LATENTVIEW.NS,Information Technology,0.02,27.63,12.63,4
+LAURUSLABS.NS,Healthcare,0.62,4.01,10.86,7
+LEMONTREE.NS,Consumer Services,2.23,62.05,6.68,7
+LICHSGFIN.NS,Financial Services,7.45,12.06,14.67,5
+LICI.NS,Financial Services,0,6.98,79.15,6
+LINDEINDIA.NS,Chemicals,0.01,5.58,14.28,6
+LLOYDSME.NS,Metals & Mining,0.12,113.4,46.2,4
+LODHA.NS,Realty,0.35,14.28,11.37,7
+LT.NS,Construction,1.36,17.78,14.22,5
+LTF.NS,Financial Services,3.61,10.11,7.09,4
+LTFOODS.NS,Fast Moving Consumer Goods,0.33,16.95,17.63,3
+LTIM.NS,Information Technology,0.1,13.33,24.66,5
+LTTS.NS,Information Technology,0.1,17.55,25.32,5
+LUPIN.NS,Healthcare,0.32,11.45,13.48,6
+M&M.NS,Automobile and Auto Components,1.62,20.87,18.18,6
+M&MFIN.NS,Financial Services,5.53,17.37,10.92,4
+MAHABANK.NS,Financial Services,11.53,24.21,21.41,6
+MAHSEAMLES.NS,Capital Goods,0,7.76,15.94,7
+MANAPPURAM.NS,Financial Services,2.9,18.32,15.37,5
+MANKIND.NS,Healthcare,0.59,16.19,18.67,4
+MANYAVAR.NS,Consumer Services,0.27,11.18,27.24,5
+MAPMYINDIA.NS,Information Technology,0.04,32.21,20.25,5
+MARICO.NS,Fast Moving Consumer Goods,0.14,4.42,38.78,6
+MARUTI.NS,Automobile and Auto Components,0,20.07,15.31,7
+MASTEK.NS,Information Technology,0.24,16.52,17.07,6
+MAXHEALTH.NS,Healthcare,0.32,21.32,13.92,3
+MAZDOCK.NS,Capital Goods,0,32.74,27.31,8
+MCX.NS,Financial Services,0,44.76,17.57,9
+MEDANTA.NS,Healthcare,0.21,19.43,16.89,7
+METROPOLIS.NS,Healthcare,0.15,2.72,13,6
+MFSL.NS,Financial Services,0.19,14.22,8.75,8
+MGL.NS,Oil Gas & Consumable Fuels,0.03,24.82,22.28,6
+MINDACORP.NS,Automobile and Auto Components,0.25,25.24,15.21,7
+MMTC.NS,Services,0.09,-95.17,,4
+MOTHERSON.NS,Automobile and Auto Components,0.78,19.82,8.51,6
+MOTILALOFS.NS,Financial Services,1.33,24.72,25.15,3
+MPHASIS.NS,Information Technology,0.2,5.96,19.47,6
+MRF.NS,Automobile and Auto Components,0.2,13.38,9.52,5
+MRPL.NS,Oil Gas & Consumable Fuels,1.01,10.72,19.31,5
+MSUMI.NS,Automobile and Auto Components,0.16,18.26,39.21,4
+MUTHOOTFIN.NS,Financial Services,3.38,18.38,18.73,1
+NAM-INDIA.NS,Financial Services,0.02,13.31,27.48,5
+NATCOPHARM.NS,Healthcare,0.03,24.9,15.78,6
+NATIONALUM.NS,Metals & Mining,0.01,5.7,19.63,9
+NAUKRI.NS,Consumer Services,0.01,31.01,5.68,8
+NAVA.NS,Power,0.12,5.97,17.94,7
+NAVINFLUOR.NS,Chemicals,0.56,17.36,13.02,7
+NBCC.NS,Construction,0,14.48,20.9,8
+NCC.NS,Construction,0.22,25.85,11.09,7
+NESTLEIND.NS,Fast Moving Consumer Goods,0.95,11.08,106.53,3
+NETWEB.NS,Information Technology,0.01,66.93,29.5,3
+NETWORK18.NS,Media Entertainment & Publication,0.62,5.41,-2.93,2
+NEULANDLAB.NS,Healthcare,0.1,15.8,19.29,5
+NEWGEN.NS,Information Technology,0.04,24.05,21.97,7
+NH.NS,Healthcare,0.67,14,28.83,5
+NHPC.NS,Power,1,4.32,9.34,6
+NIACL.NS,Financial Services,0,6.75,1.37,5
+NIVABUPA.NS,Financial Services,0.07,36.48,6.13,7
+NLCINDIA.NS,Power,1.2,8.18,12.4,7
+NMDC.NS,Metals & Mining,0.15,11.5,29.04,6
+NSLNISP.NS,Metals & Mining,0.45,,-3.73,1
+NTPC.NS,Power,1.36,12.35,13.13,8
+NTPCGREEN.NS,Power,1.05,,,5
+NUVAMA.NS,Financial Services,2.48,31.63,18.74,5
+NYKAA.NS,Consumer Services,1,37.79,2.58,5
+OBEROIRLTY.NS,Realty,0.21,25.19,14.98,6
+OFSS.NS,Information Technology,0.01,9.45,27.79,7
+OIL.NS,Oil Gas & Consumable Fuels,0.62,7.87,18.18,4
+OLAELEC.NS,Automobile and Auto Components,0.51,1699.32,,4
+OLECTRA.NS,Automobile and Auto Components,0.24,44.82,10.55,7
+ONGC.NS,Oil Gas & Consumable Fuels,0.55,10.53,13.57,4
+PAGEIND.NS,Textiles,0.19,8.29,44.34,6
+PATANJALI.NS,Fast Moving Consumer Goods,0.07,12.16,10.26,6
+PAYTM.NS,Financial Services,0.01,11.53,-10.82,2
+PCBL.NS,Chemicals,1.51,23.64,14.81,5
+PEL.NS,Financial Services,2.42,9.95,3.19,5
+PERSISTENT.NS,Information Technology,0.05,27.87,24.69,7
+PETRONET.NS,Oil Gas & Consumable Fuels,0.13,5.7,22.15,7
+PFC.NS,Financial Services,8.25,11.78,20.95,6
+PFIZER.NS,Healthcare,0.01,-4.4,17.29,9
+PGEL.NS,Consumer Durables,0.14,63.62,16.67,6
+PHOENIXLTD.NS,Realty,0.45,37.73,10.96,6
+PIDILITIND.NS,Chemicals,0.05,9.82,21.73,8
+PIIND.NS,Chemicals,0.02,14.61,19,6
+PNB.NS,Financial Services,12.64,17.6,9.41,7
+PNBHOUSING.NS,Financial Services,3.7,7.52,11.56,4
+PNCINFRA.NS,Construction,1.51,14.33,17.36,6
+POLICYBZR.NS,Financial Services,0.05,51.73,-0.62,5
+POLYCAB.NS,Capital Goods,0.02,22.45,22,4
+POLYMED.NS,Healthcare,0.07,21.87,16.59,5
+POONAWALLA.NS,Financial Services,3.19,39.6,6.56,0
+POWERGRID.NS,Power,1.41,3.23,18.46,7
+POWERINDIA.NS,Capital Goods,0.02,9.34,12.24,8
+PPLPHARMA.NS,Healthcare,0.6,11.74,-0.36,8
+PRAJIND.NS,Capital Goods,0.14,11.27,20.29,4
+PREMIERENE.NS,Capital Goods,0.69,106.26,43.25,8
+PRESTIGE.NS,Realty,0.75,2.84,9.13,6
+PTCIL.NS,Capital Goods,0.08,16.29,9.37,6
+PVRINOX.NS,Media Entertainment & Publication,1.1,63.21,-3.55,4
+RADICO.NS,Fast Moving Consumer Goods,0.28,19.27,11.71,7
+RAILTEL.NS,Telecommunication,0.02,31.72,14.7,6
+RAINBOW.NS,Healthcare,0.52,15.9,19.87,6
+RAMCOCEM.NS,Construction Materials,0.63,12.37,3.64,5
+RAYMOND.NS,Realty,0.2,-31.95,22.04,6
+RAYMONDLSL.NS,Textiles,0.24,,,3
+RBLBANK.NS,Financial Services,8.04,18.47,6.83,3
+RCF.NS,Chemicals,0.6,27.05,13.6,2
+RECLTD.NS,Financial Services,6.33,12.8,21.42,4
+REDINGTON.NS,Services,0.32,16.61,17.4,6
+RELIANCE.NS,Oil Gas & Consumable Fuels,0.44,11.57,8.89,5
+RENUKA.NS,Fast Moving Consumer Goods,,19.28,,4
+RHIM.NS,Capital Goods,0.12,40.26,13.87,6
+RITES.NS,Construction,0,-5.9,17.76,4
+RKFORGE.NS,Automobile and Auto Components,0.5,45.31,18.81,6
+ROUTE.NS,Telecommunication,0.19,31.72,16.95,5
+RPOWER.NS,Power,0.93,0.35,-9.59,8
+RRKABEL.NS,Capital Goods,0.13,20.21,16.02,4
+RTNINDIA.NS,Consumer Services,0.87,3728.06,-8.32,5
+RVNL.NS,Construction,0.57,0.92,17.53,5
+SAGILITY.NS,Information Technology,0.17,82.03,4.86,8
+SAIL.NS,Metals & Mining,0.72,15.1,11.28,7
+SAILIFE.NS,Healthcare,0.13,24.99,8.5,7
+SAMMAANCAP.NS,Financial Services,1.96,-1.37,0.95,3
+SAPPHIRE.NS,Consumer Services,0.92,18.74,8.29,5
+SARDAEN.NS,Metals & Mining,0.46,5.86,15.19,6
+SAREGAMA.NS,Media Entertainment & Publication,0,26.68,13.63,6
+SBFC.NS,Financial Services,1.65,35.12,10.86,5
+SBICARD.NS,Financial Services,3.26,19.17,20.14,3
+SBILIFE.NS,Financial Services,0,12.1,13.52,7
+SBIN.NS,Financial Services,12.42,19.19,17.12,6
+SCHAEFFLER.NS,Automobile and Auto Components,0.01,13.25,20.24,4
+SCHNEIDER.NS,Capital Goods,0.93,19.88,100.68,9
+SCI.NS,Services,0.27,3.97,10.84,9
+SHREECEM.NS,Construction Materials,0.05,8.71,8.14,6
+SHRIRAMFIN.NS,Financial Services,4.15,29.52,16.21,4
+SHYAMMETL.NS,Capital Goods,0.07,13.35,10.97,7
+SIEMENS.NS,Capital Goods,0.01,19,15.92,8
+SIGNATURE.NS,Realty,1.17,40.47,,8
+SJVN.NS,Power,1.63,1.24,7.97,5
+SKFINDIA.NS,Capital Goods,0,10.3,22.59,4
+SOBHA.NS,Realty,0.44,13.65,4.07,5
+SOLARINDS.NS,Chemicals,0.22,24.07,32.1,8
+SONACOMS.NS,Automobile and Auto Components,0.04,18.51,17.53,5
+SONATSOFTW.NS,Information Technology,0.3,22.29,31.33,7
+SRF.NS,Chemicals,0.37,5.72,14.63,7
+STARHEALTH.NS,Financial Services,0.07,14.95,11.92,6
+SUMICHEM.NS,Chemicals,0.01,0.94,19.16,7
+SUNDARMFIN.NS,Financial Services,4.63,18.41,14.66,6
+SUNDRMFAST.NS,Automobile and Auto Components,0.22,6.7,16.06,5
+SUNPHARMA.NS,Healthcare,0.03,10.8,16.72,8
+SUNTV.NS,Media Entertainment & Publication,0.01,10.46,19.61,7
+SUPREMEIND.NS,Capital Goods,0.01,10.36,19.91,5
+SUZLON.NS,Capital Goods,0.06,24.96,,7
+SWANENERGY.NS,Chemicals,0.36,150.16,1.48,7
+SWIGGY.NS,Consumer Services,0.17,38.71,,4
+SWSOLAR.NS,Construction,0.93,6.62,-76.14,5
+SYNGENE.NS,Healthcare,0.12,11.83,12.31,6
+SYRMA.NS,Capital Goods,0.38,54.86,9.21,8
+TANLA.NS,Information Technology,0.03,7.9,28.53,5
+TARIL.NS,Capital Goods,0.23,20.31,16.93,5
+TATACHEM.NS,Chemicals,0.33,5.66,4.89,5
+TATACOMM.NS,Telecommunication,4.09,11.38,74.75,6
+TATACONSUM.NS,Fast Moving Consumer Goods,0.12,12.34,7.43,7
+TATAELXSI.NS,Information Technology,0.07,14.71,34.2,5
+TATAINVEST.NS,Financial Services,0,6.32,1.27,4
+TATAMOTORS.NS,Automobile and Auto Components,0.62,16.45,27.67,5
+TATAPOWER.NS,Power,1.75,15.21,11.88,6
+TATASTEEL.NS,Metals & Mining,1.04,-3.6,5.97,6
+TATATECH.NS,Information Technology,0.07,13.56,21.67,6
+TBOTEK.NS,Consumer Services,0.18,53.19,35.34,6
+TCS.NS,Information Technology,0.1,10.01,50.3,4
+TECHM.NS,Information Technology,0.07,5.88,13.99,8
+TECHNOE.NS,Construction,0,19.35,12.71,7
+TEJASNET.NS,Telecommunication,0.89,153.06,5.25,4
+THERMAX.NS,Capital Goods,0.35,19.24,13.32,6
+TIINDIA.NS,Automobile and Auto Components,0.13,16.07,21.14,5
+TIMKEN.NS,Capital Goods,0.01,12.63,18.33,6
+TITAGARH.NS,Capital Goods,0.21,36.33,12.41,7
+TITAN.NS,Consumer Durables,1.12,28.04,31.81,4
+TORNTPHARM.NS,Healthcare,0.42,10.62,23.84,9
+TORNTPOWER.NS,Power,0.5,26.94,18.44,7
+TRENT.NS,Consumer Services,0.41,56.18,25.86,8
+TRIDENT.NS,Textiles,0.35,-0.05,9.09,8
+TRITURBINE.NS,Capital Goods,0.03,33.02,28.17,8
+TRIVENI.NS,Fast Moving Consumer Goods,0.19,3.75,19.95,4
+TTML.NS,Telecommunication,,6.14,,5
+TVSMOTOR.NS,Automobile and Auto Components,1.73,21.87,27.31,8
+UBL.NS,Fast Moving Consumer Goods,0.14,15.15,9.73,5
+UCOBANK.NS,Financial Services,10.39,18.72,7.41,5
+ULTRACEMCO.NS,Construction Materials,0.34,13.03,10.36,4
+UNIONBANK.NS,Financial Services,11.77,16.69,15.01,6
+UNITDSPR.NS,Fast Moving Consumer Goods,0.06,7.51,20.19,8
+UNOMINDA.NS,Automobile and Auto Components,0.43,26.37,17.87,4
+UPL.NS,Chemicals,0.86,0.29,4.62,8
+USHAMART.NS,Capital Goods,0.15,8.93,17.78,4
+UTIAMC.NS,Financial Services,0,11.96,15.65,5
+VBL.NS,Fast Moving Consumer Goods,0.17,31.38,28.18,6
+VEDL.NS,Metals & Mining,1.82,4.84,22.94,8
+VGUARD.NS,Consumer Durables,0.06,16.8,14.6,8
+VIJAYA.NS,Healthcare,0.4,13.8,18.26,7
+VMM.NS,Consumer Services,0.27,24.24,8.53,7
+VOLTAS.NS,Consumer Durables,0.14,24.77,7.67,5
+VTL.NS,Textiles,0.13,0.56,8.7,8
+WAAREEENER.NS,Capital Goods,0.13,71.69,30.81,6
+WELCORP.NS,Capital Goods,0.37,34.34,11.54,8
+WELSPUNLIV.NS,Textiles,0.69,9.66,12.09,8
+WESTLIFE.NS,Consumer Services,2.48,16.48,11.77,5
+WHIRLPOOL.NS,Consumer Durables,0.02,8.52,7.39,8
+WIPRO.NS,Information Technology,0.23,3.95,15.64,6
+WOCKPHARMA.NS,Healthcare,0.69,1.1,-7.58,4
+YESBANK.NS,Financial Services,7.45,17.58,3.61,6
+ZEEL.NS,Media Entertainment & Publication,0.03,0.44,3.12,9
+ZENSARTECH.NS,Information Technology,0.03,7.56,16.33,4
+ZENTEC.NS,Capital Goods,0.04,140.78,25.5,4
+ZFCVINDIA.NS,Automobile and Auto Components,0.02,14.36,14.91,7
+ZYDUSLIFE.NS,Healthcare,0.13,15.43,18.83,6
