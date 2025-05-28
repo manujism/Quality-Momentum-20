@@ -1,4 +1,4 @@
-# Momentum-Based Stock Selection Strategy in Python
+# Momentum & Quality Based Stock Selection Strategy in Python
 
 
 
