@@ -1,1 +1,4 @@
-# Quality-Momentum-25
+# Momentum-Based Stock Selection Strategy in Python
+
+
+
