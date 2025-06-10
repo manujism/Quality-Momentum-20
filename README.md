@@ -2,7 +2,7 @@
 
 ---
 
-# 📈 
+# 📈 Momentum & Quality-Based Stock Selection Strategy (Python)
 
 A robust Python framework for screening and backtesting stocks from the **NIFTY 500** using **fundamental quality filters** and **multi-timeframe momentum scoring**. The strategy ensures **sector diversification** and compares an equal-weighted portfolio's performance against a benchmark (NIFTY 500 index).
 
